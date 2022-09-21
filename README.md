@@ -22,6 +22,9 @@ Experiência como arquiteto, desenvolvedor e techlead de automação digital, ro
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
+### IA
+
+* **Airbnb Exemplo:** [Ver arquivo](projects/1_Analisando_os_Dados_do_Airbnb.ipynb) / [Ver colab](https://colab.research.google.com/drive/1dE4Aqf5Trg_tWu2P1hJn1oG5F35Xp1ZA?usp=sharing)
 * **EM CONSTRUÇÃO:** https://bit.ly/2L2cMwy
 
 ---
